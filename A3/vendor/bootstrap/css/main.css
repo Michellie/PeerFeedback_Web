@@ -1,0 +1,226 @@
+body {
+  padding-top: 54px;
+  background-color: white;
+  margin-right:20px;
+
+}
+@media (min-width: 992px) {
+    body {
+    padding-top: 56px;
+    position:relative;
+  }
+}
+
+#left{
+    background-color: white;
+}
+
+#middle{
+    background-color: white;
+}
+
+#right{
+    background-color:white;
+
+}
+
+#navigation{
+    background-color: #145C9E;
+}
+
+a{
+ color: white;
+ font-size: 18px;
+}
+
+.navbar-brand{
+    margin-left: 10px;
+    margin-right:300px;
+}
+.navbar-brand a{
+    size: 20px;
+}
+
+
+.nav-item{
+    margin-right: 30px;
+}
+
+.nav-link:hover{
+    color:#94B4D2;
+    text-decoration: underline;
+}
+.active{
+    font-style: oblique;
+    text-decoration: underline;
+
+}
+#profile{
+    margin-bottom: 10px;
+    padding: 5px;
+    width:100%;
+}
+
+.center-block{
+    display: block;
+    height: 200px;
+    margin: 10px auto 10px auto;   
+}
+
+.btn{
+    border-color: black;
+    background-color: #145C9E;
+    color: white;
+}
+
+.card{
+    margin: 10px 10px 20px 10px;
+
+}
+
+.time{
+    font-size: 0.8em;
+    font-style: italic;
+    margin-left: 5px;
+    text-align: right;
+}
+
+p{
+    padding: 5px 3px 0px 0px;
+}
+
+#dropdown{
+    margin-left: 20px;
+    position: absolute;
+    padding-left: 20em;
+
+}
+
+.ScrollStyle{
+    max-height: 400px;
+    overflow-y: scroll;
+    background-color:white;
+    border:2px black; 
+}
+
+#chatScroll{
+    max-height: 200px;
+    overflow-y: scroll;
+    background-color:white; 
+    border:black; 
+
+}
+
+.commentTime{
+    font-size: 0.8em;
+    font-style: italic;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.text-success ul{
+    color:#145C9E;
+}
+
+caret{
+    width:0px;
+}
+
+.text-success a{
+    color: black;
+}
+
+.card-header{
+    background-color: #145C9E;
+    color: white;
+    font-size: 15px;
+}
+
+#mainScroll{
+    max-height: 620px;
+    overflow-y: scroll;
+    background-color:white; 
+    border:black; 
+
+}
+
+#status{
+    display: block;
+    float: right;
+    height: 20px;
+    margin: 3px;
+}
+
+/*Comment Source*/
+.detailBox {
+    width:100%;
+    border:1px solid black;
+}
+.titleBox {
+    background-color:#145C9E ;
+    padding:10px;
+    color: white;
+}
+.titleBox label{
+  color: white;
+  margin:0;
+  display:inline-block;
+}
+
+.commentBox {
+    padding:10px;
+    border-top:1px dotted #bbb;
+}
+.commentBox .form-group:first-child, .actionBox .form-group:first-child {
+    width:80%;
+}
+.commentBox .form-group:nth-child(2), .actionBox .form-group:nth-child(2) {
+    width:18%;
+}
+.actionBox .form-group * {
+    width:100%;
+}
+.taskDescription {
+    margin-top:10px 0;
+}
+.commentList {
+    padding:0;
+    list-style:none;
+    max-height:450px;
+    overflow:auto;
+}
+.commentList li {
+    margin:0;
+    margin-top:10px;
+}
+.commentList li > div {
+    display:table-cell;
+}
+.commenterImage {
+    width:30px;
+    margin-right:5px;
+    height:100%;
+    float:left;
+}
+.commenterImage img {
+    width:100%;
+    border-radius:50%;
+}
+.commentText p {
+    margin:0;
+}
+.sub-text {
+    color:#aaa;
+    font-family:verdana;
+    font-size:11px;
+}
+.actionBox {
+    border-top:1px dotted #bbb;
+    padding:10px;
+}
+
+.close{
+    color: white;
+}
+
+/*Comment Source Ends*/
