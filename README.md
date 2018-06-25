@@ -1,7 +1,7 @@
 # PeerFeedback_Web
 Simple web prototype demonstrating the UI of a educational platform.
 
-![Alt text](PeerFeedback_Web/HomePage.PNG)
-![Alt text](PeerFeedback_Web/Discussion.PNG)
-![Alt text](PeerFeedback_Web/ViewMembersSolution.PNG)
-![Alt text](PeerFeedback_Web/Chat.PNG)
+![Alt text](https://github.com/Michellie/PeerFeedback_Web/blob/master/HomePage.PNG)
+![Alt text](https://github.com/Michellie/PeerFeedback_Web/blob/master/ViewMembersSolution.PNG)
+![Alt text](https://github.com/Michellie/PeerFeedback_Web/blob/master/Discussion.PNG)
+![Alt text](https://github.com/Michellie/PeerFeedback_Web/blob/master/Chat.PNG)
